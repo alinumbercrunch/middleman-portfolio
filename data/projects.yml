@@ -1,34 +1,20 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: dungeon-together
+  description: A multiplayer WebGL HTML5 dungeon game using TypeScript, Vue.js, and Node.js.
+  image: projects/dunj-together-resized-v2.png
+  url: https://cpuabuse.github.io/dungeon-together/#/
+  github: https://github.com/cpuabuse/dungeon-together
   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
+- name: Guided escapes
+  description: Guided Escapes is a fully functional clone of Airbnb, built using Ruby on Rails.It allows users to list, discover, and book unique guided experiences around the world.
+  image: projects/guided-escapes.png
   url: https://www.google.com
-  github: https://www.github.com
+  github: https://github.com/alinumbercrunch/guided-escapes
   online: true
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: Lemondade stand
+  description: Rails-based application designed to help vendors at flea markets efficiently manage their sales, inventory, and customer interactions.
+  image: projects/lemonade-stand.png
+  url: https://www.lemonadestand.store/
+  github: https://github.com/alinumbercrunch/lemonade-stand
   online: true
-
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
