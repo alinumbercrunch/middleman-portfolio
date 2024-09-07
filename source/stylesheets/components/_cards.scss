@@ -1,7 +1,22 @@
+body {
+  width: 100vw;
+  background: rgb(208, 209, 234);
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
+}
+
+.card {
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 15px 35px  rgba(50,50,93,.1);
+  width: 700px;
+  margin: 25px auto;
+  border: 1px solid #EAEAEA;
+  background: rgb(208, 209, 234);
 }
 
 .card-product {
@@ -13,6 +28,7 @@
   flex-direction: column;
   align-items: center;
   position: relative;
+  overflow: hidden
 }
 
 .card-product img {
