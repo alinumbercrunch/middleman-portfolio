@@ -1,6 +1,6 @@
 - name: dungeon-together
   description: A multiplayer WebGL HTML5 dungeon game using TypeScript, Vue.js, and Node.js.
-  image: projects/dunj-together-resized-v2.png
+  image: projects/dunj-together-resized.png
   url: https://cpuabuse.github.io/dungeon-together/#/
   github: https://github.com/cpuabuse/dungeon-together
   online: true
