@@ -1,5 +1,5 @@
 body {
-  width: 100vw;
+
   background: rgb(208, 209, 234);
 }
 
@@ -13,7 +13,6 @@ body {
   padding: 30px;
   border-radius: 4px;
   box-shadow: 0 15px 35px  rgba(50,50,93,.1);
-  width: 700px;
   margin: 25px auto;
   border: 1px solid #EAEAEA;
   background: rgb(208, 209, 234);
@@ -34,7 +33,7 @@ body {
 .card-product img {
   height: 184px;
   width: 100%;
-  object-fit: cover;
+  object-fit: fill;
 }
 
 .card-product h2 {
